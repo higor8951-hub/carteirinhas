@@ -1,0 +1,13 @@
+{
+  "name": "Portal da Brigada - ADM Rondonópolis",
+  "short_name": "Brigada ADM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071A2B",
+  "theme_color": "#071A2B",
+  "description": "Portal operacional da Brigada de Emergência da unidade de Rondonópolis, baseado no PAE 2026 v.18 e no PSCIP disponível.",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
